@@ -2,6 +2,14 @@
 
 The lab researches transportation safety, mobility, travel behavior and applies digital twinning to analyze different traffic scenarios. It has expertise in computer vision and is home to advanced driving simulators. Although the lab was founded by Prof. Mohamed Abdel–Aty in 2018, the research and development work started more than 25 years ago. At any given moment, the lab hosts, on average, a team of about 25 researchers from different parts of the world with diverse expertise.
 
+## Our core expertise:
+- Data-Driven – Real-time safety analysis and big data analytics
+
+- Digital Twinning and CitySim
+
+- Big data and simulation
+
+- Human factors and travel behavior
 
 <!--
 
