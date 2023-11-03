@@ -16,6 +16,10 @@ The lab researches transportation safety, mobility, travel behavior and applies 
 " target="_blank"><img src="http://img.youtube.com/vi/ID5PpVTFJ5o/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="720" height="480" border="10" /></a>
 
+## CitySim: Our Open Dataset of Drone Trajectories
+CitySim currently has vehicle trajectories extracted from 1140-minutes of drone videos@30 FPS recorded at 12 different locations and we are adding more location. It covers a variety of road geometries including freeway basic segments, weaving segments, expressway merge/diverge segments, signalized intersections, stop-controlled intersections, and intersections without sign/signal control. Visit our [repository]([https://github.com/vuejs/vue](https://github.com/UCF-SST-Lab/UCF-SST-CitySim1-Dataset)) and get access to the data. 
+
+
 <!--
 
 **Here are some ideas to get you started:**
